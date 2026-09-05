@@ -11,6 +11,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# CPU CI validates QUBO mathematics and classical baselines only; it does not emulate a QPU.
 jobs:
   test:
     runs-on: ubuntu-24.04
