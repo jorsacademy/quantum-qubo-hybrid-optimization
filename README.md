@@ -202,4 +202,4 @@ See `RESEARCH_NOTES.md` for additional methodology and interpretation guidance.
 
 ## License
 
-MIT. D-Wave Ocean and D-Wave cloud services are separate products with their own licenses, terms and system requirements.
+This repository is licensed under the **JORS Academy Non-Commercial Source License 1.0**. Commercial use is prohibited without a separate prior written commercial license. See [`LICENSE`](LICENSE) for the complete terms. D-Wave Ocean and D-Wave cloud services remain subject to their own licenses, terms, and system requirements.
