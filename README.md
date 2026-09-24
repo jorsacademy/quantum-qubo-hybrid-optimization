@@ -1,5 +1,11 @@
 # Quantum QUBO Hybrid Optimization
 
+<!-- portfolio-umbrella:start -->
+## Portfolio role
+
+This repository is intentionally maintained as a standalone primary repository in the consolidated Jors Academy portfolio. It is not used as a container for other projects.
+<!-- portfolio-umbrella:end -->
+
 A reproducible research implementation for **Quadratic Unconstrained Binary Optimization (QUBO)** with exact classical validation, simulated annealing, classical hybrid post-processing, and optional D-Wave Leap Hybrid / QPU execution.
 
 The repository is deliberately structured so that ordinary CPU GitHub Actions can validate the mathematics without pretending to be a quantum benchmark. A quantum or quantum-classical speedup is never inferred from CPU-only experiments.
